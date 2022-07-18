@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "iotedge-80ff8": {
+      "hosting": {
+        "IoTEdge": [
+          "iotedge-80ff8"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "iotedge-80ff8"
+  }
+}
